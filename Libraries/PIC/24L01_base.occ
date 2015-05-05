@@ -1,0 +1,22 @@
+CC5X Version 3.2K, Copyright (c) B Knudsen Data, Norway 1992-2006
+ --> FREE edition, 8-16 bit int, 24 bit float, 1k code, reduced optim.
+C:\Global\PIC\code\16F88\nRF24L01\24L01_base.c:
+ 20. Apr 2006   9:36
+ Chip = 16F88
+ RAM : -------- -------- -------- -------- ======== ==....** ******** ********
+  40h: ******** ******** ******** ******** ******** ******** ******** ********
+  80h: -------- -------- -------- -------- ******** ******** ******** ********
+  C0h: ******** ******** ******** ******** ******** ******** -------- --------
+ 100h: -------- -------- ******** ******** ******** ******** ******** ********
+ 140h: ******** ******** ******** ******** ******** ******** -------- --------
+ 180h: -------- -------- ******** ******** ******** ******** ******** ********
+ 1C0h: ******** ******** ******** ******** ******** ******** -------- --------
+RAM usage: 14 bytes (10 local), 354 bytes free
+ Optimizing - removed 8 instructions (-1 %)
+ File '24L01_base.occ'
+ Codepage 0 has  727 word(s) :  35 %
+ Codepage 1 has    0 word(s) :   0 %
+ File '24L01_base.hex'
+Total of 727 code words (17 %)
+ * Estimated CODE SIZE of full optimization: 576 code words (-20 %)
+ RESTRICTIONS on commercial usage applies as described in file readme.txt

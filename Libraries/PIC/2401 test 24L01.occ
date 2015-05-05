@@ -1,0 +1,22 @@
+CC5X Version 3.1I, Copyright (c) B Knudsen Data, Norway 1992-2003, No. 1599
+ --> STANDARD edition, 8-24 bit int, 24-32 bit float, 8k code
+C:\Global\PIC\code\16F88\24g_232demo\2401 test 24L01.c:
+ 18. Apr 2006   8:03
+Warning C:\Global\PIC\C\16F88.h 45: Unrecognized pragma directive 'config_reg2'
+ (The #pragma directive is not recognized and therefore ignored)
+ Chip = 16F88
+ RAM : -------- -------- -------- -------- ======== ======== ....**** ********
+  40h: ******** ******** ******** ******** ******** ******** ******** ********
+  80h: -------- -------- -------- -------- ******** ******** ******** ********
+  C0h: ******** ******** ******** ******** ******** ******** -------- --------
+ 100h: -------- -------- ******** ******** ******** ******** ******** ********
+ 140h: ******** ******** ******** ******** ******** ******** -------- --------
+ 180h: -------- -------- ******** ******** ******** ******** ******** ********
+ 1C0h: ******** ******** ******** ******** ******** ******** -------- --------
+RAM usage: 20 bytes (16 local), 348 bytes free
+ Optimizing - removed 9 instructions (-2 %)
+ File '2401 test 24L01.occ'
+ Codepage 0 has  337 word(s) :  16 %
+ Codepage 1 has    0 word(s) :   0 %
+ File '2401 test 24L01.hex'
+Total of 337 code words (8 %)
